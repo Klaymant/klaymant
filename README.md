@@ -10,6 +10,7 @@ I am a front developper from France (Paris).
 <img align="left" alt="js" src="https://img.shields.io/badge/-Javascript-%23f0d81e" />
 <img align="left" alt="js" src="https://img.shields.io/badge/-Typescript-%233178c6" />
 <img align="left" alt="js" src="https://img.shields.io/badge/-Tailwind CSS-%2300bcd4" />
+<img align="left" alt="js" src="https://img.shields.io/badge/-Angular-%23de0031" />
 <br>
 
 ## Connect with me
