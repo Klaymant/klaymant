@@ -1,5 +1,6 @@
 ### Hello World 👋
 I am a front developper from France (Paris).
+- 🔭 Working for music right management society [Bridger](https://bridgermusic.io) as frontend developper since September of 2021.
 - 🔭 Worked for marketplace [Outilly](https://www.outilly.com) as frontend developper for one year.
 - 🌱 Learning best practices in depth
 <br>
