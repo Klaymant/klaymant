@@ -4,6 +4,14 @@ I am a front developper from France (Paris).
 - 🔭 Worked for marketplace [Outilly](https://www.linkedin.com/company/simplement-io/about/) as a frontend developper for two years.
 - 🌱 Learning best practices in depth.
 
+## My personal projects
+
+### [Blindtest Hero](https://blindtest-hero.vercel.app/) (React / TypeScript)
+A blindtest game where you have to guess as fast as possible to win points.
+
+### [Nutrimate](https://golden-fox-6ecd65.netlify.app/bmr) (React / TypeScript)
+A toolbox for calculating data such as your BMI or macronutrient requirements.
+
 ## Technologies used
 <img align="left" alt="js" src="https://img.shields.io/badge/-React-%2362dafc" />
 <img align="left" alt="js" src="https://img.shields.io/badge/-Javascript-%23f0d81e" />
