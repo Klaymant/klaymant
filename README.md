@@ -1,7 +1,7 @@
 ## Hello World 👋
 I am a front developper from France (Paris).
-- 🔭 Worked for music right management society [Bridger](https://bridgermusic.io) as frontend developper for 2 years.
-- 🔭 Worked for marketplace [Outilly](https://www.linkedin.com/company/simplement-io/about/) as frontend developper for one year.
+- 🔭 Worked for music right management society [Bridger](https://bridgermusic.io) as frontend developper for 2 and a half years.
+- 🔭 Worked for marketplace [Outilly](https://www.linkedin.com/company/simplement-io/about/) as frontend developper for two years.
 - 🌱 Learning best practices in depth.
 
 ## Technologies used
